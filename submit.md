@@ -14,7 +14,7 @@ delegates from all parts of the UK, together with the European Union and North A
 disciplines including Geography, Computer Science, Planning, Archaeology, Geology, Geomatics and
 Engineering.
 
-<a href="https://twitter.com/search?f=realtime&q=%23GISRUK2015&src=typd">#GISRUK2015</a> will be
+[#GISRUK2015](https://twitter.com/search?f=realtime&q=%23GISRUK2015&src=typd) will be
 hosted by the University of Leeds' esteemed School of Geography in the Faculty of Environment. The
 conference will take place on the 14th - 17th April 2015.
 
