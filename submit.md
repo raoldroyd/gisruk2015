@@ -23,8 +23,8 @@ Abstract Submission
 
 We invite submission of extended abstracts (up to 1500 words). All abstracts will be peer reviewed;
 accepted abstracts will be published in the conference proceedings and some will have the
-opportunity to be written up as full papers and submitted to a special issue of Applied Spatial
-Analysis and Policy.
+opportunity to be written up as full papers and submitted to a special issue of *Applied Spatial
+Analysis and Policy*.
 
 Important Dates
 ---------------
@@ -38,7 +38,7 @@ Conference Themes
 In recognition of the recently funded £6M+ ESRC Consumer Data Research Centre, we are especially
 interested in abstracts on our main conference theme:
 
-* Big Data and the future of GIS. 
+* Big Data and the future of GIS.
 
 We also welcome submissions on all aspects of methodological, applied or theoretical GIS and, in
 particular, our other conference topics:
