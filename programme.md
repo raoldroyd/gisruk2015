@@ -2,4 +2,4 @@
 layout: master
 ---
 
-This markdown file will become the course programme.
+Watch this space for the conference programme.
