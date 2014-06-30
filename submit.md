@@ -16,7 +16,7 @@ Engineering.
 
 [#GISRUK2015](https://twitter.com/search?f=realtime&q=%23GISRUK2015&src=typd) will be
 hosted by the University of Leeds' esteemed School of Geography in the Faculty of Environment. The
-conference will take place on the 14th - 17th April 2015.
+conference will take place on the 15th - 17th April 2015.
 
 Abstract Submission
 -------------------
@@ -32,7 +32,7 @@ Important Dates
 ---------------
 
 Abstract submission deadline: *Friday 7th November 2014*.
-Notification of acceptance: *February 2014*
+Notification of acceptance: *February 2015*
 
 Conference Themes
 -----------------
@@ -46,28 +46,29 @@ We also welcome submissions on all aspects of methodological, applied or theoret
 particular, our other conference topics:
 
 - Crime and Policing
-- Retail geography
+- Retail Geography
 - Health and Wellbeing
-- Transport systems
+- Transport Systems
 - Environmental GIS and Hazards
 - Uncertainty and Error
-- Energy and sustainability
-- Spatial analysis and visualisation
-- Geodemographics and populations
-- Historical applications of GIS
+- Energy and Sustainability
+- Spatial Analysis and Visualisation
+- Geodemographics and Populations
+- Historical Applications of GIS
 
 How To Submit
 -------------
 
 Papers must be submitted through EasyChair (*details to follow shortly*).
 
-Papers must be submitted as pdf files (without restrictions)  and follow the GISRUK style
+Papers must be submitted as pdf files (without restrictions) and follow the GISRUK style
 guidelines. Please use one of the following templates to produce your extended abstract:
 
 - Template in .docx format (MS Word)
 - Template in Latex format
 - Template in ODT format (Open Office)
 
+Papers must include a short abstract (up to 100 words). 
 
 Notification of success or otherwise will be made available during February 2015.
 
