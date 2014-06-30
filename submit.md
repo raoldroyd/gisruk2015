@@ -25,6 +25,8 @@ We invite submission of extended abstracts (up to 1500 words). All abstracts wil
 accepted abstracts will be published in the conference proceedings and some will have the
 opportunity to be written up as full papers and submitted to a special issue of *Applied Spatial
 Analysis and Policy*.
+opportunity to be written up as full papers and submitted to a special issue of Applied Spatial
+Analysis and Policy.
 
 Important Dates
 ---------------
@@ -38,21 +40,21 @@ Conference Themes
 In recognition of the recently funded £6M+ ESRC Consumer Data Research Centre, we are especially
 interested in abstracts on our main conference theme:
 
-* Big Data and the future of GIS.
+- Big Data and the future of GIS. 
 
 We also welcome submissions on all aspects of methodological, applied or theoretical GIS and, in
 particular, our other conference topics:
 
-* Crime and Policing
-* Retail geography
-* Health and Wellbeing
-* Transport systems
-* Environmental GIS and Hazards
-* Uncertainty and Error
-* Energy and sustainability
-* Spatial analysis and visualisation
-* Geodemographics and populations
-* Historical applications of GIS
+- Crime and Policing
+- Retail geography
+- Health and Wellbeing
+- Transport systems
+- Environmental GIS and Hazards
+- Uncertainty and Error
+- Energy and sustainability
+- Spatial analysis and visualisation
+- Geodemographics and populations
+- Historical applications of GIS
 
 How To Submit
 -------------
@@ -62,9 +64,9 @@ Papers must be submitted through EasyChair (*details to follow shortly*).
 Papers must be submitted as pdf files (without restrictions)  and follow the GISRUK style
 guidelines. Please use one of the following templates to produce your extended abstract:
 
-* Template in .docx format (MS Word)
-* Template in Latex format
-* Template in ODT format (Open Office)
+- Template in .docx format (MS Word)
+- Template in Latex format
+- Template in ODT format (Open Office)
 
 
 Notification of success or otherwise will be made available during February 2015.
@@ -72,12 +74,12 @@ Notification of success or otherwise will be made available during February 2015
 Local Programme Committee
 -------------------------
 
-* Nick Malleson (conference chair)
-* Helen Durham
-* Paul Norman 
-* Nick Addis
-* Rachel Oldroyd 
-* Calum Carson
-* Robin Lovelace
-* Alison Heppenstall
+- Nick Malleson (conference chair)
+- Helen Durham
+- Paul Norman 
+- Nick Addis
+- Rachel Oldroyd 
+- Calum Carson
+- Robin Lovelace
+- Alison Heppenstall
 
