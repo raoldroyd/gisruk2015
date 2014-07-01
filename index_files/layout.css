@@ -518,7 +518,6 @@ ul
 ul li {
     display: block;
     position: relative;
-    float: left;
 }
 
 li ul
@@ -528,7 +527,8 @@ li ul
 
 #topbar ul li a 
 {
-    display: block;
+     float: left;
+	display: block;
     text-decoration: none;
     color: #ffffff;
     border-top: 1px solid #ffffff;
