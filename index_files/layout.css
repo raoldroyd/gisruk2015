@@ -17,6 +17,7 @@ body{
 	font-family:verdana, Arial, Helvetica, sans-serif;
 	color:#777777;
 	background-color:#FFFFFF;
+	overflow-x : hidden; 
 	}
 
 img{display:block; margin:0; padding:0; border:none;}
@@ -215,7 +216,7 @@ h1, h2, h3, h4, h5, h6{
 
 #imageline li.last{
 	margin-right:0;
-	}
+}
 
 /* ----------------------------------------------BreadCrumb-------------------------------------*/
 
@@ -515,19 +516,19 @@ ul
     list-style: none;
 }
 
-ul li
+#topbar ul li
 {
     display: block;
     position: relative;
     float: left;
 }
 
-li ul
+#topbar li ul
 {
     display: none;
 }
 
-ul li a 
+ #topbar ul li a
 {
     display: block;
     text-decoration: none;
@@ -539,28 +540,19 @@ ul li a
     white-space: nowrap;
 }
 
-ul li a:hover 
+#topbar ul li a:hover 
 {
     background: #617F8A;
 }
-li:hover ul 
+
+#topbar li:hover ul 
 {
     display: block;
     position: absolute;
 }
 
-li:hover li
+#topbar li:hover li
 {
     float: none;
     font-size: 11px;
-}
-
-li:hover a 
-{
-    background: #617F8A;
-}
-
-li:hover li a:hover 
-{
-    background: #95A9B1;
 }
