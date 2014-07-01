@@ -539,12 +539,12 @@ ul li a
     white-space: nowrap;
 }
 
-li.last a #talisman 
+a #talisman 
 {
     background-color: white;
 }
 
-li.last a #talisman:hover
+a #talisman:hover
 {
     background-color: white;
 }
