@@ -539,6 +539,11 @@ li ul
 	list-style : none; 
 }
 
+#topbar ul li a:hover 
+{
+    background: #617F8A;
+}
+
 li:hover ul 
 {
     display: block;
