@@ -35,10 +35,10 @@ Notification of acceptance: *February 2014*
 Conference Themes
 -----------------
 
-In recognition of the recently funded £6M+ ESRC Consumer Data Research Centre, we are especially
+In recognition of the recently created Consumer Data Research Centre, with over £6 million of grant funding from the [ESRC](http://www.esrc.ac.uk/), we are especially
 interested in abstracts on our main conference theme:
 
-Big Data and the future of GIS. 
+**Big Data and the future of GIS** 
 
 We also welcome submissions on all aspects of methodological, applied or theoretical GIS and, in
 particular, our other conference topics:
