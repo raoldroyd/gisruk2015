@@ -59,16 +59,20 @@ particular, our other conference topics:
 How To Submit
 -------------
 
-Papers must be submitted through EasyChair (*details to follow shortly*).
+Papers must be submitted through EasyChair:
+
+- [https://www.easychair.org/conferences/?conf=gisruk2015](https://www.easychair.org/conferences/?conf=gisruk2015)
 
 Papers must be submitted as pdf files (without restrictions) and follow the GISRUK style
 guidelines. Please use one of the following templates to produce your extended abstract:
 
-- Template in .docx format (MS Word)
-- Template in Latex format
-- Template in ODT format (Open Office)
+- [Template in .docx format](./paper_templates/GISRUKPaperTemplate2015.docx)
+- [Template in LaTeX format](./paper_templates/GISRUKPaperTemplate2015-Latex.zip)
 
-Papers must include a short abstract (up to 100 words). 
+Papers must include:
+
+- a short abstract (up to 100 words) which must be copied into the 'Abstract' box on EasyChair
+- upto 5 keywords or phrases which must be copied into the 'Keywords' box on EasyChair
 
 Notification of success or otherwise will be made available during February 2015.
 
