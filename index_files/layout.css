@@ -513,11 +513,14 @@ ul
     font-size: 14px;
     margin: 0;
     padding: 0;
+    list-style: none;
 }
 
-ul li {
+ul li
+{
     display: block;
     position: relative;
+    float: left;
 }
 
 li ul
@@ -525,10 +528,9 @@ li ul
     display: none;
 }
 
-#topbar ul li a 
+ #topbar ul li a
 {
-    float: left;
-	display: block;
+    display: block;
     text-decoration: none;
     color: #ffffff;
     border-top: 1px solid #ffffff;
@@ -536,7 +538,6 @@ li ul
     background: #2C5463;
     margin-left: 1px;
     white-space: nowrap;
-	list-style : none; 
 }
 
 #topbar ul li a:hover 
@@ -544,24 +545,14 @@ li ul
     background: #617F8A;
 }
 
-li:hover ul 
+#topbar li:hover ul 
 {
     display: block;
     position: absolute;
 }
 
-li:hover li
+#topbar li:hover li
 {
     float: none;
     font-size: 11px;
-}
-
-li:hover a 
-{
-    background: #617F8A;
-}
-
-li:hover li a:hover 
-{
-    background: #95A9B1;
 }
