@@ -55,6 +55,7 @@ particular, our other conference topics:
 - Historical applications of GIS
 
 <br />
+<br />
 
 How To Submit
 -------------
@@ -84,4 +85,5 @@ Local Programme Committee
 - Robin Lovelace
 - Alison Heppenstall
 
+<br />
 <br />
