@@ -53,7 +53,7 @@ particular, our other conference topics:
 - Spatial analysis and visualisation
 - Geodemographics and populations
 - Historical applications of GIS
-
+-
 
 How To Submit
 -------------
@@ -73,7 +73,7 @@ Notification of success or otherwise will be made available during February 2015
 Local Programme Committee
 -------------------------
 
-
+-
 - Nick Malleson (conference chair)
 - Helen Durham
 - Paul Norman 
