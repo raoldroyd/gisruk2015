@@ -216,11 +216,6 @@ h1, h2, h3, h4, h5, h6{
 
 #imageline li.last{
 	margin-right:0;
-	color : white; 
-	}
-
-#homecontent li.last a	{
-	color : white; 
 }
 
 /* ----------------------------------------------BreadCrumb-------------------------------------*/
@@ -542,6 +537,11 @@ ul li a
     background: #2C5463;
     margin-left: 1px;
     white-space: nowrap;
+}
+
+ul li.last a 
+{
+    background: white;
 }
 
 ul li a:hover 
