@@ -54,7 +54,7 @@ particular, our other conference topics:
 - Geodemographics and populations
 - Historical applications of GIS
 
-
+<br />
 
 How To Submit
 -------------
@@ -84,4 +84,4 @@ Local Programme Committee
 - Robin Lovelace
 - Alison Heppenstall
 
-
+<br />
