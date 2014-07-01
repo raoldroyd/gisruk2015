@@ -513,7 +513,6 @@ ul
     font-size: 14px;
     margin: 0;
     padding: 0;
-    list-style: none;
 }
 
 ul li {
@@ -527,7 +526,7 @@ li ul
     display: none;
 }
 
-ul li a 
+#topbar ul li a 
 {
     display: block;
     text-decoration: none;
@@ -537,6 +536,7 @@ ul li a
     background: #2C5463;
     margin-left: 1px;
     white-space: nowrap;
+	list-style : none; 
 }
 
 ul li a:hover 
