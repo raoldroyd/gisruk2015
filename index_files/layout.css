@@ -527,13 +527,12 @@ li ul
 
 #topbar ul li a 
 {
-     float: left;
+    float: left;
 	display: block;
     text-decoration: none;
-    color: #ffffff;
+    color: #2C5463;
     border-top: 1px solid #ffffff;
     padding: 5px 15px 5px 15px;
-    background: #2C5463;
     margin-left: 1px;
     white-space: nowrap;
 	list-style : none; 
@@ -541,7 +540,7 @@ li ul
 
 ul li a:hover 
 {
-    background: #617F8A;
+    color: #617F8A;
 }
 li:hover ul 
 {
