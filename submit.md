@@ -36,7 +36,7 @@ Conference Themes
 In recognition of the recently created Consumer Data Research Centre, with over £6 million of grant funding from the [ESRC](http://www.esrc.ac.uk/), we are especially
 interested in abstracts on our main conference theme:
 
-**Big Data and the future of GIS** 
+**Big Data and the Future of GIS** 
 
 We also welcome submissions on all aspects of methodological, applied or theoretical GIS and, in
 particular, our other conference topics:
@@ -52,7 +52,8 @@ particular, our other conference topics:
 - Geodemographics and Populations
 - Historical Applications of GIS
 
-<br />
+If you are unsure about the relevance of your paper, please contact one of the local committee
+(details below).
 
 How To Submit
 -------------
@@ -75,13 +76,15 @@ Notification of success or otherwise will be made available during February 2015
 Local Programme Committee
 -------------------------
 
-- Nick Malleson (conference chair)
-- Helen Durham
-- Paul Norman 
-- Nick Addis
-- Rachel Oldroyd 
-- Calum Carson
-- Robin Lovelace
-- Alison Heppenstall
+The local programme committee is made up of the following people:
 
-<br />
+- (Nick Malleson (conference chair))[http://www.geog.leeds.ac.uk/people/n.malleson]
+- (Helen Durham)[http://www.geog.leeds.ac.uk/people/h.durham]
+- (Paul Norman)[http://www.geog.leeds.ac.uk/people/p.norman]
+- (Nick Addis)[http://www.geog.leeds.ac.uk/people/n.addis]
+- (Rachel Oldroyd)[http://www.geog.leeds.ac.uk/people/r.oldroyd]
+- (Calum Carson)[http://www.geog.leeds.ac.uk/people/support-staff/research-support/#c.carson]
+- (Robin Lovelace)[http://www.geog.leeds.ac.uk/people/r.lovelace]
+- (Alison Heppenstall)[http://www.geog.leeds.ac.uk/people/a.heppenstall]
+
+Please see their web pages for contact details.
