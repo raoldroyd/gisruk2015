@@ -539,14 +539,16 @@ ul li a
     white-space: nowrap;
 }
 
-li.last a 
+li.last a #talisman 
 {
     background-color: white;
 }
 
-li.last a:hover	{
-	background-color: white;
+li.last a #talisman:hover
+{
+    background-color: white;
 }
+
 
 ul li a:hover 
 {
