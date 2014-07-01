@@ -78,13 +78,13 @@ Local Programme Committee
 
 The local programme committee is made up of the following people:
 
-- (Nick Malleson (conference chair))[http://www.geog.leeds.ac.uk/people/n.malleson]
-- (Helen Durham)[http://www.geog.leeds.ac.uk/people/h.durham]
-- (Paul Norman)[http://www.geog.leeds.ac.uk/people/p.norman]
-- (Nick Addis)[http://www.geog.leeds.ac.uk/people/n.addis]
-- (Rachel Oldroyd)[http://www.geog.leeds.ac.uk/people/r.oldroyd]
-- (Calum Carson)[http://www.geog.leeds.ac.uk/people/support-staff/research-support/#c.carson]
-- (Robin Lovelace)[http://www.geog.leeds.ac.uk/people/r.lovelace]
-- (Alison Heppenstall)[http://www.geog.leeds.ac.uk/people/a.heppenstall]
+- [Nick Malleson (conference chair)](http://www.geog.leeds.ac.uk/people/n.malleson)
+- [Helen Durham](http://www.geog.leeds.ac.uk/people/h.durham)
+- [Paul Norman](http://www.geog.leeds.ac.uk/people/p.norman)
+- [Nick Addis](http://www.geog.leeds.ac.uk/people/n.addis)
+- [Rachel Oldroyd](http://www.geog.leeds.ac.uk/people/r.oldroyd)
+- [Calum Carson)(http://www.geog.leeds.ac.uk/people/support-staff/research-support/#c.carson)
+- [Robin Lovelace](http://www.geog.leeds.ac.uk/people/r.lovelace)
+- [Alison Heppenstall](http://www.geog.leeds.ac.uk/people/a.heppenstall)
 
 Please see their web pages for contact details.
