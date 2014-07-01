@@ -54,6 +54,8 @@ particular, our other conference topics:
 - Geodemographics and populations
 - Historical applications of GIS
 
+<br />
+
 How To Submit
 -------------
 
