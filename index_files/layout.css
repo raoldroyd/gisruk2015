@@ -539,17 +539,6 @@ ul li a
     white-space: nowrap;
 }
 
-a #talisman 
-{
-    background-color: white;
-}
-
-a #talisman:hover
-{
-    background-color: white;
-}
-
-
 ul li a:hover 
 {
     background: #617F8A;
