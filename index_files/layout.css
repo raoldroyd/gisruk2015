@@ -17,6 +17,7 @@ body{
 	font-family:verdana, Arial, Helvetica, sans-serif;
 	color:#777777;
 	background-color:#FFFFFF;
+	overflow-x : hidden; 
 	}
 
 img{display:block; margin:0; padding:0; border:none;}
