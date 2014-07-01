@@ -25,8 +25,6 @@ We invite submission of extended abstracts (up to 1500 words). All abstracts wil
 accepted abstracts will be published in the conference proceedings and some will have the
 opportunity to be written up as full papers and submitted to a special issue of *Applied Spatial
 Analysis and Policy*.
-opportunity to be written up as full papers and submitted to a special issue of Applied Spatial
-Analysis and Policy.
 
 Important Dates
 ---------------
