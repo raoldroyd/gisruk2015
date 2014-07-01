@@ -515,7 +515,7 @@ ul
     list-style: none;
 }
 
-ul li
+#menu ul li
 {
     display: block;
     position: relative;
