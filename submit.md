@@ -5,9 +5,6 @@ layout: master
 Call for Papers
 ===============
 
-Aims
-----
-
 We welcome colleagues to the 23rd GIS Research UK (GISRUK) conference. The GISRUK conference series
 is the UK's national GIS research conference, established in 1993. GISRUK conferences attract
 delegates from all parts of the UK, together with the European Union and North America and from
@@ -29,8 +26,9 @@ Analysis and Policy*.
 Important Dates
 ---------------
 
-Abstract submission deadline: *Friday 7th November 2014*.
-Notification of acceptance: *February 2015*
+Abstract submission deadline: **Friday 7th November 2014**.
+
+Notification of acceptance: **February 2015**.
 
 Conference Themes
 -----------------
@@ -69,13 +67,10 @@ guidelines. Please use one of the following templates to produce your extended a
 - [Template in .docx format](./paper_templates/GISRUKPaperTemplate2015.docx)
 - [Template in LaTeX format](./paper_templates/GISRUKPaperTemplate2015-Latex.zip)
 
-Papers must include:
-
-- a short abstract (up to 100 words) which must be copied into the 'Abstract' box on EasyChair
-- upto 5 keywords or phrases which must be copied into the 'Keywords' box on EasyChair
+Papers must include a short abstract (up to 100 words) and upto 5 keywords or phrases. **These must
+be copied into the 'Abstract' and 'Keywords' boxes in EasyChair**.
 
 Notification of success or otherwise will be made available during February 2015.
-
 
 Local Programme Committee
 -------------------------
