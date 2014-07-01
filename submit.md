@@ -26,9 +26,9 @@ Analysis and Policy*.
 Important Dates
 ---------------
 
-Abstract submission deadline: **Friday 7th November 2014**.
+Abstract submission deadline: <span style="color:red">**Friday 7th November 2014**</span>.
 
-Notification of acceptance: **February 2015**.
+Notification of acceptance: <span style="color:red">**February 2015**</span>.
 
 Conference Themes
 -----------------
@@ -36,7 +36,7 @@ Conference Themes
 In recognition of the recently created Consumer Data Research Centre, with over £6 million of grant funding from the [ESRC](http://www.esrc.ac.uk/), we are especially
 interested in abstracts on our main conference theme:
 
-**Big Data and the Future of GIS** 
+<span style="color:black">**Big Data and the Future of GIS**</span>.
 
 We also welcome submissions on all aspects of methodological, applied or theoretical GIS and, in
 particular, our other conference topics:
