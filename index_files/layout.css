@@ -516,14 +516,14 @@ ul
     list-style: none;
 }
 
-ul li
+#topbar ul li
 {
     display: block;
     position: relative;
     float: left;
 }
 
-li ul
+#topbar li ul
 {
     display: none;
 }
