@@ -37,10 +37,10 @@ Notification of acceptance: *February 2015*
 Conference Themes
 -----------------
 
-In recognition of the recently funded £6M+ ESRC Consumer Data Research Centre, we are especially
+In recognition of the recently created Consumer Data Research Centre, with over £6 million of grant funding from the [ESRC](http://www.esrc.ac.uk/), we are especially
 interested in abstracts on our main conference theme:
 
-- Big Data and the future of GIS. 
+**Big Data and the future of GIS** 
 
 We also welcome submissions on all aspects of methodological, applied or theoretical GIS and, in
 particular, our other conference topics:
@@ -55,6 +55,8 @@ particular, our other conference topics:
 - Spatial Analysis and Visualisation
 - Geodemographics and Populations
 - Historical Applications of GIS
+
+<br />
 
 How To Submit
 -------------
@@ -72,6 +74,7 @@ Papers must include a short abstract (up to 100 words).
 
 Notification of success or otherwise will be made available during February 2015.
 
+
 Local Programme Committee
 -------------------------
 
@@ -84,3 +87,4 @@ Local Programme Committee
 - Robin Lovelace
 - Alison Heppenstall
 
+<br />
