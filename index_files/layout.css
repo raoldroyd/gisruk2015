@@ -539,12 +539,12 @@ ul li a
     white-space: nowrap;
 }
 
-.last a 
+li.last a 
 {
     background-color: white;
 }
 
-.last a:hover	{
+li.last a:hover	{
 	background-color: white;
 }
 
