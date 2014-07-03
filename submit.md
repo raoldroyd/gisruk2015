@@ -2,7 +2,7 @@
 layout: master
 ---
 
-Call for Papers
+Call for papers
 ===============
 
 We welcome colleagues to the 23rd GIS Research UK (GISRUK) conference. The GISRUK conference series
