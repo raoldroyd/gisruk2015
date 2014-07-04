@@ -513,9 +513,8 @@ ul
 {
     /*font-family: Arial, Verdana;*/
     /*font-size: 14px;*/
-    /*margin: 0;*/
-    /*padding: 0;*/
     /*list-style: none;*/
+    padding: 0;
 }
 
 #topbar ul li
@@ -528,6 +527,8 @@ ul
 #topbar li ul
 {
     display: none;
+    list-style: none;
+    margin: 0;
 }
 
  #topbar ul li a
