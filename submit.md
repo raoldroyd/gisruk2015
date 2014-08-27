@@ -23,6 +23,9 @@ accepted abstracts will be published in the conference proceedings and some will
 opportunity to be written up as full papers and submitted to a special issue of *Applied Spatial
 Analysis and Policy*.
 
+We also invite the submission of posters. These will be displayed during the conference and there
+will be a special poster session for authors to briefly present their poster.
+
 Important Dates
 ---------------
 
@@ -33,8 +36,9 @@ Notification of acceptance: <span style="color:red">**February 2015**</span>.
 Conference Themes
 -----------------
 
-In recognition of the recently created Consumer Data Research Centre, with over £6 million of grant funding from the [ESRC](http://www.esrc.ac.uk/), we are especially
-interested in abstracts on our main conference theme:
+In recognition of the recently created Consumer Data Research Centre, with over £6 million of grant
+funding from the [ESRC](http://www.esrc.ac.uk/), we are especially interested in abstracts on our
+main conference theme:
 
 <span style="color:black">**Big Data and the Future of GIS**</span>.
 
@@ -58,17 +62,19 @@ If you are unsure about the relevance of your paper, please contact one of the l
 How To Submit
 -------------
 
-Papers must be submitted through EasyChair:
+Papers and posters must be submitted through EasyChair:
 
 - [https://www.easychair.org/conferences/?conf=gisruk2015](https://www.easychair.org/conferences/?conf=gisruk2015)
 
-Papers must be submitted as pdf files (without restrictions) and follow the GISRUK style
+Submissions must be pdf files (without restrictions) and follow the GISRUK style
 guidelines. Please use one of the following templates to produce your extended abstract:
 
 - [Template in .docx format](./paper_templates/GISRUKPaperTemplate2015.docx)
 - [Template in LaTeX format](./paper_templates/GISRUKPaperTemplate2015-Latex.zip)
 
-Papers must include a short abstract (up to 100 words) and upto 5 keywords or phrases. **These must
+(There are no style guidelines for posters)
+
+Submissions must include a short abstract (up to 100 words) and upto 5 keywords or phrases. **These must
 be copied into the 'Abstract' and 'Keywords' boxes in EasyChair**.
 
 Notification of success or otherwise will be made available during February 2015.
