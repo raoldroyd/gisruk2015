@@ -59,8 +59,22 @@ particular, our other conference topics:
 If you are unsure about the relevance of your paper, please contact one of the local committee
 (details below).
 
-How To Submit
--------------
+Bursaries
+---------
+
+We have a number of bursaries available. If you are eligible and would like to be considered for a
+bursary, please select the appropriate Group when you submit your paper. Notification of winning
+papers will be announced at the end of November.
+
+- Consumer Data Research Centre ([CDRC](http://www.lida.leeds.ac.uk/index.html)) bursary.
+  - Up to 5 bursaries, covering registration and accommodation, are avilable to masters and PhD
+    students, for papers relating to 'Innovations in Geographical Consumer Data'
+
+- XXXX others?
+
+
+How To Submit - EasyChair Instructions
+--------------------------------------
 
 Papers and posters must be submitted through EasyChair:
 
@@ -76,6 +90,11 @@ There are no style guidelines for posters.
 
 Submissions must include a short abstract (up to 100 words) and upto 5 keywords or phrases. **These must
 be copied into the 'Abstract' and 'Keywords' boxes in EasyChair**.
+
+If appropriate, also select one of the following **Groups** for your submission:
+- _Early-career author_ - indicate that you are a masters or PhD student and eligible for the best
+  early-career paper prize
+- Con
 
 Notification of success or otherwise will be made available during February 2015.
 
