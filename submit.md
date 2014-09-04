@@ -66,9 +66,9 @@ We have a number of bursaries available. If you are eligible and would like to b
 bursary, please select the appropriate Group when you submit your paper. Notification of winning
 papers will be announced at the end of November.
 
-- Consumer Data Research Centre ([CDRC](http://www.lida.leeds.ac.uk/index.html)) bursary.
-  - Up to 5 bursaries, covering registration and accommodation, are avilable to masters and PhD
-    students, for papers relating to 'Innovations in Geographical Consumer Data'
+- **Consumer Data Research Centre** ([CDRC](http://www.lida.leeds.ac.uk/index.html)) bursary.
+  Up to 5 bursaries, covering registration and accommodation, are avilable to masters and PhD
+  students, for papers relating to 'Innovations in Geographical Consumer Data'
 
 - XXXX others?
 
