@@ -94,7 +94,7 @@ be copied into the 'Abstract' and 'Keywords' boxes in EasyChair**.
 
 If appropriate, also select one of the following **Groups** for your submission:
 
-- _Early-career author_ - indicate that you are a masters or PhD student and eligible for the best
+- _Early-career author prize_ - indicate that you are a masters or PhD student and eligible for the best
   early-career paper prize
 
 - _GISRUK early-career bursary_ - indicate that you are a masters or PhD student and would like to
@@ -103,7 +103,8 @@ If appropriate, also select one of the following **Groups** for your submission:
 - _CDRC bursary_ - indicate that you are a masters or PhD student with a paper linked to 'Innovations
   in Geographical Consumer Data' and would like to be entered for the CDRC bursary competition.
 
-Notification of success or otherwise will be made available during February 2015.
+Notification of success or otherwise will be made available during February 2015. Bursary winners
+will be announced at the end of November 2015.
 
 Local Programme Committee
 -------------------------
