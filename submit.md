@@ -94,8 +94,7 @@ be copied into the 'Abstract' and 'Keywords' boxes in EasyChair**.
 
 If appropriate, also select one of the following **Groups** for your submission:
 
-- _Early-career author prize_ - indicate that you are a masters or PhD student and eligible for the best
-  early-career paper prize
+- _Early-career author_ - indicate that you are a masters or PhD student.
 
 - _GISRUK early-career bursary_ - indicate that you are a masters or PhD student and would like to
   be entered for the GISRUK early-career bursary competition.
