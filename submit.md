@@ -59,8 +59,23 @@ particular, our other conference topics:
 If you are unsure about the relevance of your paper, please contact one of the local committee
 (details below).
 
-How To Submit
--------------
+Bursaries
+---------
+
+We have a number of bursaries available for early-career researchers (Masters or PhD students). If
+you are eligible and would like to be considered for a bursary, please select the appropriate Group
+when you submit your paper. Notification of winners will be announced at the end of November.
+
+- **GISRUK Early-Career Bursaries**. We have up to 5 bursaries to cover registration and
+  accommodation for the papers which receive the highest reviews by the GISRUK committee.
+
+- **Consumer Data Research Centre** ([CDRC](http://www.lida.leeds.ac.uk/index.html)).
+  Up to 5 bursaries, covering registration and accommodation, are avilable to early-career
+  researchers for papers relating to 'Innovations in Geographical Consumer Data'.
+
+
+How To Submit - EasyChair Instructions
+--------------------------------------
 
 Papers and posters must be submitted through EasyChair:
 
@@ -77,7 +92,18 @@ There are no style guidelines for posters.
 Submissions must include a short abstract (up to 100 words) and upto 5 keywords or phrases. **These must
 be copied into the 'Abstract' and 'Keywords' boxes in EasyChair**.
 
-Notification of success or otherwise will be made available during February 2015.
+If appropriate, also select one of the following **Groups** for your submission:
+
+- _Early-career author_ - indicate that you are a masters or PhD student.
+
+- _GISRUK early-career bursary_ - indicate that you are a masters or PhD student and would like to
+  be entered for the GISRUK early-career bursary competition.
+
+- _CDRC bursary_ - indicate that you are a masters or PhD student with a paper linked to 'Innovations
+  in Geographical Consumer Data' and would like to be entered for the CDRC bursary competition.
+
+Notification of success or otherwise will be made available during February 2015. Bursary winners
+will be announced at the end of November 2015.
 
 Local Programme Committee
 -------------------------
