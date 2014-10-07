@@ -62,9 +62,11 @@ If you are unsure about the relevance of your paper, please contact one of the l
 Bursaries
 ---------
 
-We have a number of bursaries available for early-career researchers (Masters or PhD students). If
-you are eligible and would like to be considered for a bursary, please select the appropriate Group
-when you submit your paper. Notification of winners will be announced at the end of November.
+We have a number of bursaries available for early-career researchers (Masters or PhD students). 
+If the paper has multiple authors, the early-career researcher must be
+the first author in order to be eligible. If you are eligible and would like to be considered for a bursary,
+please select the appropriate Group when you submit your paper on EasyChair. Notification of winners will be
+announced at the end of November.
 
 - **GISRUK Early-Career Bursaries**. We have up to 5 bursaries to cover registration and
   accommodation for the papers which receive the highest reviews by the GISRUK committee.
