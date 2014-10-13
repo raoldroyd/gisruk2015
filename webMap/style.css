@@ -34,8 +34,10 @@ p	{
 	position : absolute;
 	top : 1%; 
 	right : 1%;
-	width : 220px;
-	height : 220px;
+	width : 20%;
+	height : 26%;
+	min-width : 230px;
+	min-height : 230px;
 	padding : 5px; 
 	background-color : #F0F0F0; 
 	border-radius : 7px;
@@ -53,9 +55,7 @@ p	{
 .legendText	{
 	margin-top : 12px;
 }
+
 .legendText p	{
 	padding : 6px;
 }
-
-
-
